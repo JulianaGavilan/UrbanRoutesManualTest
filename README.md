@@ -22,8 +22,16 @@ Urban Routes es una aplicación que crea rutas y calcula la duración y precio d
 <img decoding="async"
      src="https://img.shields.io/badge/Casos de Prueba-FFDAB9?style=for-the-badge&logo=Casos de Prueba&logoColor=white" 
      alt="Casos de Prueba"/>
-  
-
+  <img decoding="async" 
+     src="https://img.shields.io/badge/seguimiento de bugs-AEDFF7?style=for-the-badge&logo=bugs&logoColor=white" 
+     alt="bugs"/>
+<img decoding="async"
+     src="https://img.shields.io/badge/Jira-FFB6B9?style=for-the-badge&logo=Jira&logoColor=white" 
+     alt="Jira"/>
+<img decoding="async" 
+     src="https://img.shields.io/badge/Pruebas de UI-FADADD?style=for-the-badge&logo=prueba&logoColor=white" 
+     alt="Pruebas de UI"/
+     
 La interfaz es bastante sencilla, contiene dos campos para las direcciones: "Desde" y "Hasta". Además, cuenta con tres modos ("Óptimo", "Flash" y "Personal"), así como íconos para los tipos de transporte (automóvil del usuario, a pie, taxi, bicicleta, scooter o compartir un automóvil).Una vez el usuario establece sus ubicaciones "Desde" y "Hasta", la aplicación recibe esa información como puntos "A" y "B". Luego, calcula la duración total de viaje y el precio utilizando un algoritmo específico.
 
 [![Image-13.png](https://i.postimg.cc/kX8ckVDz/Image-13.png)](https://postimg.cc/yk1cR8my)
