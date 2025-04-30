@@ -43,9 +43,11 @@ https://github.com/JulianaGavilan/UrbanRoutesManualTest/blob/main/informe%20de%2
 
 ### 1. Mapa mental
 Analisis de requisitos y diseños de la funcion "Agregar licencia de Conduccion"
+https://drive.google.com/file/d/11LTI_KqC4rq_AZCL-TDhosBIQp8iU2yx/view 
 ### 2. Clases de equivalencia y valores limite
 para los campos de entrada "Nombre" y "Apellido" en el formulario de licencia de conducir
 ### 3. Diagrama de flujo
 Para el calculo del precio y duracion de los viajes
+https://drive.google.com/file/d/1Q2ryar3WPrW4bzk2MG-tV93fc7mAHhDi/view?usp=sharing 
 ### 4. Diseño de Pruebas
 Para calcular el precio y la duracion de un viaje compartido 
