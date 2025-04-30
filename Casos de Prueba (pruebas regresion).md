@@ -1,17 +1,4 @@
 # Casos de Prueba
-#### ID: Caso-1
-##### Titulo del caso de prueba:  Desplazamiento del mapa
-##### Condicion Previa: 
-Abrir la aplicación Urban Routes
-##### Pasos:
-1. Desplazarse por el mapa hacia arriba y hacia abajo.   
-##### Resultado esperado:
-El mapa se mueve.Todos los objetos se muestran según el diseño.
-##### Estado:
-Aprobado
-##### ID de error:
-N/A
-
 
 | ID | Título del caso de prueba | Condición previa | Paso | Descripción de los pasos | Resultado esperado | Estado | ID del error |
 | --- | --- | --- | --- | --- | --- | --- | --- |
