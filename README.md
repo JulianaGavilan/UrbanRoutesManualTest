@@ -22,6 +22,7 @@ La interfaz es bastante sencilla, contiene dos campos para las direcciones: "Des
 En esta oportunidad realizaremos pruebas de regresion relacionadas a la interfaz grafica de la pagina web, esto lo haremos siguiendo los siguientes pasos:
 ### 1. Iniciando el servidor
 ### 2. Ejecutando los casos de prueba
+https://github.com/JulianaGavilan/UrbanRoutesManualTest/blob/main/Casos%20de%20Prueba%20(pruebas%20regresion).md
 
 ### 3. Creando informes de error 
 https://github.com/JulianaGavilan/UrbanRoutesManualTest/blob/main/informe%20de%20errores(pruebas%20regresion).md
