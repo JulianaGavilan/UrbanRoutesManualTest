@@ -53,3 +53,25 @@ https://drive.google.com/file/d/1Q2ryar3WPrW4bzk2MG-tV93fc7mAHhDi/view?usp=shari
 ### 4. Diseño de Pruebas
 Para calcular el precio y la duracion de un viaje compartido 
 https://github.com/JulianaGavilan/UrbanRoutesManualTest/blob/main/Dise%C3%B1o%20de%20pruebas.md
+
+## 💻 Pruebas de aplicaciones web
+En esta ocasion se probara la aplicacion web de Urban Routes en dos entornos:
+
+Google Chrome, resolución de pantalla 800x600
+
+Firefox, resolución de pantalla 1920x1080
+
+Para lo cual se realziaran las siguientes actividades con el fin de hacer un barrido exahustivo de las nuevas actualizaciones 
+
+
+### 1. Lista de comprobación de diseño
+Para el diseño de formulario de reserva
+### 2. Lista de comprobación de funcionalidad
+de las ventanas "Método de pago" y "Agregar tarjeta"
+### 3. Casos de Prueba para un elemento
+Para el boton "Reservar"
+### 4. Casos de Prueba para una función
+Para la funcion de alquiler de autos
+### 5. Ejecución de pruebas e Informes de errores
+
+
