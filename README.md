@@ -74,12 +74,16 @@ Para lo cual se realziaran las siguientes actividades con el fin de hacer un bar
 
 ### 1. Lista de comprobación de diseño
 Para el diseño de formulario de reserva
+https://github.com/JulianaGavilan/UrbanRoutesManualTest/blob/main/Listas%20de%20comprobaci%C3%B3n%20(App%20web).md
 ### 2. Lista de comprobación de funcionalidad
 de las ventanas "Método de pago" y "Agregar tarjeta"
+https://github.com/JulianaGavilan/UrbanRoutesManualTest/blob/main/Listas%20de%20comprobaci%C3%B3n%20(App%20web).md
 ### 3. Casos de Prueba para un elemento
 Para el boton "Reservar"
+https://github.com/JulianaGavilan/UrbanRoutesManualTest/blob/main/casos%20de%20prueba(%20app%20web).md
 ### 4. Casos de Prueba para una función
 Para la funcion de alquiler de autos
+https://github.com/JulianaGavilan/UrbanRoutesManualTest/blob/main/casos%20de%20prueba(%20app%20web).md
 ### 5. Ejecución de pruebas e Informes de errores
-
+https://julianagavilanp98.atlassian.net/jira/software/c/projects/JG/summary?atlOrigin=eyJpIjoiODMxNjQ1NTQ5ZGY2NGE2NDg1MTkxYjFjYWMyYWQxOTEiLCJwIjoiaiJ9
 
