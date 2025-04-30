@@ -52,3 +52,4 @@ Para el calculo del precio y duracion de los viajes
 https://drive.google.com/file/d/1Q2ryar3WPrW4bzk2MG-tV93fc7mAHhDi/view?usp=sharing 
 ### 4. Diseño de Pruebas
 Para calcular el precio y la duracion de un viaje compartido 
+https://github.com/JulianaGavilan/UrbanRoutesManualTest/blob/main/Dise%C3%B1o%20de%20pruebas.md
